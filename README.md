@@ -2,7 +2,7 @@
 
 MorsePlay uses the [Morse GBoard](https://support.google.com/accessibility/android/answer/9011881) on Android devices to activate switch adapted toys and similar interfaces via a pluggable Bluetooth Low Energy (BLE) module.
 
-It was developed by the [Adaptive Design Association](http://www.adaptivedesign.org/) and [NottLimited](http://www.tandemmaster.org/home.html).
+It is developed by the [Adaptive Design Association](http://www.adaptivedesign.org/) and [NottLimited](http://www.tandemmaster.org/home.html).
 
 To see a demo of the project, visit https://youtu.be/Mf9dzT8w3vc.
 
